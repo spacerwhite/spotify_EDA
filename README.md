@@ -51,6 +51,6 @@
 
 # 파일 설명
 
-[Python_EDA_project]([https://colab.research.google.com/drive/1EqQkbeUVn_C72XrXDd0ZDGXgSLtSpW_o?hl=ko](https://github.com/spacerwhite/spotify_EDA/blob/main/Python_EDA_project.ipynb)): EDA 분석 Notebook
+[Python_EDA_project](https://github.com/spacerwhite/spotify_EDA/blob/main/Python_EDA_project.ipynb): EDA 분석 Notebook
 
 [Report](): 분석 보고서, ppt
