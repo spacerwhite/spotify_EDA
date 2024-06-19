@@ -43,10 +43,13 @@
 # 팀원 및 역할
 
 [김가람](https://github.com/Ria-garam): 스트리밍 수가 높은 곡들 간에 음악적 요소 공통점이 있을 것이라고 가정, 스트리밍 상위 100위 곡들의 연관성 높은 요소 간의 상관 관계 분석
+
 [박현서](https://github.com/hyunse21): Spotify 내 상위 100개의 곡들을 월과 요일로 나누어 분석, 이를 통해 곡의 흥행과 연관되는 스트리밍과 관련된 요소 분석
+
 [백승훈](https://github.com/spacerwhite): 장르별 인기 요소 분석, 음악적 특성의 패턴이 비슷한 데이터들로 클러스터링하여 장르를 예측하고, 클러스터별 인기 요인 분석
 
 # 파일 설명
 
 [Python_EDA_project](https://colab.research.google.com/drive/1EqQkbeUVn_C72XrXDd0ZDGXgSLtSpW_o?hl=ko): EDA 분석 Notebook
+
 [Report](): 분석 보고서, ppt
