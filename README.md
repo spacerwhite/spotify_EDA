@@ -54,4 +54,4 @@
 
 [Python_EDA_project](https://github.com/spacerwhite/spotify_EDA/blob/main/Python_EDA_project.ipynb): EDA 분석 Notebook
 
-[Report](): 분석 보고서, ppt
+[Report](https://github.com/spacerwhite/spotify_EDA/tree/main/Report): 분석 보고서, ppt
